@@ -2313,42 +2313,6 @@
 			<Surface name="WATER_RIFLE_AIM_PKM" animsurface="RGMWATER_R_AIM" />
 			<Surface name="WATER_RIFLE_HIP_PKM" animsurface="RGM_WATER_HIP_AIM" />
 		</LayerProp>
-		<LayerProp filter="HasMGInHand" palette="guns_v2">
-			<Surface name="LBT_RGM_RIFLE_OPEN_SAW" animsurface="RGMOPEN" />
-			<!--<Surface name="LBT_RGMRIFLE_WALK_CROUCH_SAW" animsurface="RGMCROUCH_R_RDY" />-->
-			<Surface name="LBT_RGMRIFLE_WALK_SAW" animsurface="RGMWALK_R_RDY" />
-			<Surface name="LBT_RGMRIFLE_IDLE_SAW" animsurface="RGMSTANDING" />
-			<Surface name="LBT_RGMBASICWALK_SAW" animsurface="RGMBASICWALKING" />
-			<Surface name="LBT_RGMRUNNING_SAW" animsurface="RGMRUNNING" />
-			<Surface name="LBT_RGMRIFLE_CROUCH_SAW" animsurface="RGMCROUCHING" />
-			<Surface name="LBT_RGMRIFLE_SIDESTEP_SAW" animsurface="RGMSIDESTEP" />
-			<Surface name="LBT_RGMRIFLE_SIDESTEP_AIM_SAW" animsurface="RGMSIDESTEP_R_RDY" />
-			<Surface name="LBT_RGMRIFLE_SWAT_SAW" animsurface="RGMSNEAKING" />
-			<Surface name="LBT_RGMRIFLE_RAISE_SAW" animsurface="RGMRAISE" />
-			<Surface name="LBT_RGMRIFLE_AIM_SAW" animsurface="RGMSTANDAIM" />
-			<Surface name="LBT_RGMRIFLE_HIP_SAW" animsurface="RGM_HIP_AIM" />
-			<Surface name="LBT_RGMRIFLE_CR_AIM_SAW" animsurface="RGMCROUCHAIM" />
-			<Surface name="LBT_RGMRIFLE_PRONE_SAW" animsurface="RGMPRONE" />
-			<Surface name="LBT_RGMRIFLE_HIT_SAW" animsurface="RGMRHIT" />
-			<Surface name="LBT_RGMRIFLE_PAIN_SAW" animsurface="RGMHURTSTANDINGR" />
-			<Surface name="LBT_RGMRIFLE_COWER_SAW" animsurface="RGMCOWER" />
-			<Surface name="LBT_RGMRIFLE_PRN_COWER_SAW" animsurface="RGM_COWER_PRONE" />
-			<Surface name="LBT_RGMRIFLE_WALK_HURT_SAW" animsurface="RGMHURTWALKINGR" />
-			<Surface name="LBT_RGMRIFLE_KICKDOOR_SAW" animsurface="RGMKICKDOOR" />
-			<Surface name="LBT_RGMRIFLE_SQUISH_SAW" animsurface="RGM_SQUISH" />
-			<Surface name="LBT_RGMRIFLE_LOOK_SAW" animsurface="RGM_LOOK" />
-			<Surface name="LBT_RGMRIFLE_SPIT_SAW" animsurface="RGM_SPIT" />
-			<Surface name="LBT_RGMRIFLE_DRUNK_SAW" animsurface="RGMDRUNK" />
-			<!--<Surface name="LBT_RGMRIFLE_BAYONET_SAW" animsurface="RGMBAYONET_S_S" />-->
-			<!--<Surface name="LBT_RGMRIFLE_BAYONET_L_SAW" animsurface="RGMBAYONET_S_P" />-->
-			<Surface name="LBT_RGMRIFLE_LOW_SAW" animsurface="RGMSHOOT_LOW" />
-			<Surface name="LBT_RGMRIFLE_HIP_LOW_SAW" animsurface="RGM_HIP_LOW" />
-			<Surface name="LBT_RGMRIFLE_ROLL_SIDE_SAW" animsurface="RGMROLL_PR" />
-			<Surface name="WATER_RIFLE_IDLE_SAW" animsurface="RGMWATER_R_STD" />
-			<Surface name="WATER_RIFLE_WALK_SAW" animsurface="RGMWATER_R_WALK" />
-			<Surface name="WATER_RIFLE_AIM_SAW" animsurface="RGMWATER_R_AIM" />
-			<Surface name="WATER_RIFLE_HIP_SAW" animsurface="RGM_WATER_HIP_AIM" />
-		</LayerProp>
 		<LayerProp filter="HasSemiAutoRifleInHand" palette="guns_v2">
 			<Surface name="LBT_RGM_RIFLE_OPEN_M14" animsurface="RGMOPEN" />
 			<!--<Surface name="LBT_RGMRIFLE_WALK_CROUCH_M14" animsurface="RGMCROUCH_R_RDY" />-->
@@ -2384,42 +2348,6 @@
 			<Surface name="WATER_RIFLE_WALK_M14" animsurface="RGMWATER_R_WALK" />
 			<Surface name="WATER_RIFLE_AIM_M14" animsurface="RGMWATER_R_AIM" />
 			<Surface name="WATER_RIFLE_HIP_M14" animsurface="RGM_WATER_HIP_AIM" />
-		</LayerProp>
-		<LayerProp filter="HasRifleInHand" palette="guns_v2">
-			<Surface name="LBT_RGM_RIFLE_OPEN_MOSIN" animsurface="RGMOPEN" />
-			<!--<Surface name="LBT_RGMRIFLE_WALK_CROUCH_MOSIN" animsurface="RGMCROUCH_R_RDY" />-->
-			<Surface name="LBT_RGMRIFLE_WALK_MOSIN" animsurface="RGMWALK_R_RDY" />
-			<Surface name="LBT_RGMRIFLE_IDLE_MOSIN" animsurface="RGMSTANDING" />
-			<Surface name="LBT_RGMBASICWALK_MOSIN" animsurface="RGMBASICWALKING" />
-			<Surface name="LBT_RGMRUNNING_MOSIN" animsurface="RGMRUNNING" />
-			<Surface name="LBT_RGMRIFLE_CROUCH_MOSIN" animsurface="RGMCROUCHING" />
-			<Surface name="LBT_RGMRIFLE_SIDESTEP_MOSIN" animsurface="RGMSIDESTEP" />
-			<Surface name="LBT_RGMRIFLE_SIDESTEP_AIM_MOSIN" animsurface="RGMSIDESTEP_R_RDY" />
-			<Surface name="LBT_RGMRIFLE_SWAT_MOSIN" animsurface="RGMSNEAKING" />
-			<Surface name="LBT_RGMRIFLE_RAISE_MOSIN" animsurface="RGMRAISE" />
-			<Surface name="LBT_RGMRIFLE_AIM_MOSIN" animsurface="RGMSTANDAIM" />
-			<Surface name="LBT_RGMRIFLE_HIP_MOSIN" animsurface="RGM_HIP_AIM" />
-			<Surface name="LBT_RGMRIFLE_CR_AIM_MOSIN" animsurface="RGMCROUCHAIM" />
-			<Surface name="LBT_RGMRIFLE_PRONE_MOSIN" animsurface="RGMPRONE" />
-			<Surface name="LBT_RGMRIFLE_HIT_MOSIN" animsurface="RGMRHIT" />
-			<Surface name="LBT_RGMRIFLE_PAIN_MOSIN" animsurface="RGMHURTSTANDINGR" />
-			<Surface name="LBT_RGMRIFLE_COWER_MOSIN" animsurface="RGMCOWER" />
-			<Surface name="LBT_RGMRIFLE_PRN_COWER_MOSIN" animsurface="RGM_COWER_PRONE" />
-			<Surface name="LBT_RGMRIFLE_WALK_HURT_MOSIN" animsurface="RGMHURTWALKINGR" />
-			<Surface name="LBT_RGMRIFLE_KICKDOOR_MOSIN" animsurface="RGMKICKDOOR" />
-			<Surface name="LBT_RGMRIFLE_SQUISH_MOSIN" animsurface="RGM_SQUISH" />
-			<Surface name="LBT_RGMRIFLE_LOOK_MOSIN" animsurface="RGM_LOOK" />
-			<Surface name="LBT_RGMRIFLE_SPIT_MOSIN" animsurface="RGM_SPIT" />
-			<Surface name="LBT_RGMRIFLE_DRUNK_MOSIN" animsurface="RGMDRUNK" />
-			<!--<Surface name="LBT_RGMRIFLE_BAYONET_MOSIN" animsurface="RGMBAYONET_S_S" />-->
-			<!--<Surface name="LBT_RGMRIFLE_BAYONET_L_MOSIN" animsurface="RGMBAYONET_S_P" />-->
-			<Surface name="LBT_RGMRIFLE_LOW_MOSIN" animsurface="RGMSHOOT_LOW" />
-			<Surface name="LBT_RGMRIFLE_HIP_LOW_MOSIN" animsurface="RGM_HIP_LOW" />
-			<Surface name="LBT_RGMRIFLE_ROLL_SIDE_MOSIN" animsurface="RGMROLL_PR" />
-			<Surface name="WATER_RIFLE_IDLE_MOSIN" animsurface="RGMWATER_R_STD" />
-			<Surface name="WATER_RIFLE_WALK_MOSIN" animsurface="RGMWATER_R_WALK" />
-			<Surface name="WATER_RIFLE_AIM_MOSIN" animsurface="RGMWATER_R_AIM" />
-			<Surface name="WATER_RIFLE_HIP_MOSIN" animsurface="RGM_WATER_HIP_AIM" />
 		</LayerProp>
 		<LayerProp filter="HasFALInHand" palette="guns_v2">
 			<Surface name="LBT_RGM_RIFLE_OPEN_FAL" animsurface="RGMOPEN" />
@@ -2568,6 +2496,78 @@
 		<LayerProp filter="HasG11InHand" palette="guns_v2">
 			<Surface name="LBT_RGMRIFLE_IDLE_G11" animsurface="RGMSTANDING" />
 			<Surface name="LBT_RGMRIFLE_AIM_G11" animsurface="RGMSTANDAIM" />
+		</LayerProp>
+		<LayerProp filter="HasMGInHand" palette="guns_v2">
+			<Surface name="LBT_RGM_RIFLE_OPEN_SAW" animsurface="RGMOPEN" />
+			<!--<Surface name="LBT_RGMRIFLE_WALK_CROUCH_SAW" animsurface="RGMCROUCH_R_RDY" />-->
+			<Surface name="LBT_RGMRIFLE_WALK_SAW" animsurface="RGMWALK_R_RDY" />
+			<Surface name="LBT_RGMRIFLE_IDLE_SAW" animsurface="RGMSTANDING" />
+			<Surface name="LBT_RGMBASICWALK_SAW" animsurface="RGMBASICWALKING" />
+			<Surface name="LBT_RGMRUNNING_SAW" animsurface="RGMRUNNING" />
+			<Surface name="LBT_RGMRIFLE_CROUCH_SAW" animsurface="RGMCROUCHING" />
+			<Surface name="LBT_RGMRIFLE_SIDESTEP_SAW" animsurface="RGMSIDESTEP" />
+			<Surface name="LBT_RGMRIFLE_SIDESTEP_AIM_SAW" animsurface="RGMSIDESTEP_R_RDY" />
+			<Surface name="LBT_RGMRIFLE_SWAT_SAW" animsurface="RGMSNEAKING" />
+			<Surface name="LBT_RGMRIFLE_RAISE_SAW" animsurface="RGMRAISE" />
+			<Surface name="LBT_RGMRIFLE_AIM_SAW" animsurface="RGMSTANDAIM" />
+			<Surface name="LBT_RGMRIFLE_HIP_SAW" animsurface="RGM_HIP_AIM" />
+			<Surface name="LBT_RGMRIFLE_CR_AIM_SAW" animsurface="RGMCROUCHAIM" />
+			<Surface name="LBT_RGMRIFLE_PRONE_SAW" animsurface="RGMPRONE" />
+			<Surface name="LBT_RGMRIFLE_HIT_SAW" animsurface="RGMRHIT" />
+			<Surface name="LBT_RGMRIFLE_PAIN_SAW" animsurface="RGMHURTSTANDINGR" />
+			<Surface name="LBT_RGMRIFLE_COWER_SAW" animsurface="RGMCOWER" />
+			<Surface name="LBT_RGMRIFLE_PRN_COWER_SAW" animsurface="RGM_COWER_PRONE" />
+			<Surface name="LBT_RGMRIFLE_WALK_HURT_SAW" animsurface="RGMHURTWALKINGR" />
+			<Surface name="LBT_RGMRIFLE_KICKDOOR_SAW" animsurface="RGMKICKDOOR" />
+			<Surface name="LBT_RGMRIFLE_SQUISH_SAW" animsurface="RGM_SQUISH" />
+			<Surface name="LBT_RGMRIFLE_LOOK_SAW" animsurface="RGM_LOOK" />
+			<Surface name="LBT_RGMRIFLE_SPIT_SAW" animsurface="RGM_SPIT" />
+			<Surface name="LBT_RGMRIFLE_DRUNK_SAW" animsurface="RGMDRUNK" />
+			<!--<Surface name="LBT_RGMRIFLE_BAYONET_SAW" animsurface="RGMBAYONET_S_S" />-->
+			<!--<Surface name="LBT_RGMRIFLE_BAYONET_L_SAW" animsurface="RGMBAYONET_S_P" />-->
+			<Surface name="LBT_RGMRIFLE_LOW_SAW" animsurface="RGMSHOOT_LOW" />
+			<Surface name="LBT_RGMRIFLE_HIP_LOW_SAW" animsurface="RGM_HIP_LOW" />
+			<Surface name="LBT_RGMRIFLE_ROLL_SIDE_SAW" animsurface="RGMROLL_PR" />
+			<Surface name="WATER_RIFLE_IDLE_SAW" animsurface="RGMWATER_R_STD" />
+			<Surface name="WATER_RIFLE_WALK_SAW" animsurface="RGMWATER_R_WALK" />
+			<Surface name="WATER_RIFLE_AIM_SAW" animsurface="RGMWATER_R_AIM" />
+			<Surface name="WATER_RIFLE_HIP_SAW" animsurface="RGM_WATER_HIP_AIM" />
+		</LayerProp>
+		<LayerProp filter="HasRifleInHand" palette="guns_v2">
+			<Surface name="LBT_RGM_RIFLE_OPEN_MOSIN" animsurface="RGMOPEN" />
+			<!--<Surface name="LBT_RGMRIFLE_WALK_CROUCH_MOSIN" animsurface="RGMCROUCH_R_RDY" />-->
+			<Surface name="LBT_RGMRIFLE_WALK_MOSIN" animsurface="RGMWALK_R_RDY" />
+			<Surface name="LBT_RGMRIFLE_IDLE_MOSIN" animsurface="RGMSTANDING" />
+			<Surface name="LBT_RGMBASICWALK_MOSIN" animsurface="RGMBASICWALKING" />
+			<Surface name="LBT_RGMRUNNING_MOSIN" animsurface="RGMRUNNING" />
+			<Surface name="LBT_RGMRIFLE_CROUCH_MOSIN" animsurface="RGMCROUCHING" />
+			<Surface name="LBT_RGMRIFLE_SIDESTEP_MOSIN" animsurface="RGMSIDESTEP" />
+			<Surface name="LBT_RGMRIFLE_SIDESTEP_AIM_MOSIN" animsurface="RGMSIDESTEP_R_RDY" />
+			<Surface name="LBT_RGMRIFLE_SWAT_MOSIN" animsurface="RGMSNEAKING" />
+			<Surface name="LBT_RGMRIFLE_RAISE_MOSIN" animsurface="RGMRAISE" />
+			<Surface name="LBT_RGMRIFLE_AIM_MOSIN" animsurface="RGMSTANDAIM" />
+			<Surface name="LBT_RGMRIFLE_HIP_MOSIN" animsurface="RGM_HIP_AIM" />
+			<Surface name="LBT_RGMRIFLE_CR_AIM_MOSIN" animsurface="RGMCROUCHAIM" />
+			<Surface name="LBT_RGMRIFLE_PRONE_MOSIN" animsurface="RGMPRONE" />
+			<Surface name="LBT_RGMRIFLE_HIT_MOSIN" animsurface="RGMRHIT" />
+			<Surface name="LBT_RGMRIFLE_PAIN_MOSIN" animsurface="RGMHURTSTANDINGR" />
+			<Surface name="LBT_RGMRIFLE_COWER_MOSIN" animsurface="RGMCOWER" />
+			<Surface name="LBT_RGMRIFLE_PRN_COWER_MOSIN" animsurface="RGM_COWER_PRONE" />
+			<Surface name="LBT_RGMRIFLE_WALK_HURT_MOSIN" animsurface="RGMHURTWALKINGR" />
+			<Surface name="LBT_RGMRIFLE_KICKDOOR_MOSIN" animsurface="RGMKICKDOOR" />
+			<Surface name="LBT_RGMRIFLE_SQUISH_MOSIN" animsurface="RGM_SQUISH" />
+			<Surface name="LBT_RGMRIFLE_LOOK_MOSIN" animsurface="RGM_LOOK" />
+			<Surface name="LBT_RGMRIFLE_SPIT_MOSIN" animsurface="RGM_SPIT" />
+			<Surface name="LBT_RGMRIFLE_DRUNK_MOSIN" animsurface="RGMDRUNK" />
+			<!--<Surface name="LBT_RGMRIFLE_BAYONET_MOSIN" animsurface="RGMBAYONET_S_S" />-->
+			<!--<Surface name="LBT_RGMRIFLE_BAYONET_L_MOSIN" animsurface="RGMBAYONET_S_P" />-->
+			<Surface name="LBT_RGMRIFLE_LOW_MOSIN" animsurface="RGMSHOOT_LOW" />
+			<Surface name="LBT_RGMRIFLE_HIP_LOW_MOSIN" animsurface="RGM_HIP_LOW" />
+			<Surface name="LBT_RGMRIFLE_ROLL_SIDE_MOSIN" animsurface="RGMROLL_PR" />
+			<Surface name="WATER_RIFLE_IDLE_MOSIN" animsurface="RGMWATER_R_STD" />
+			<Surface name="WATER_RIFLE_WALK_MOSIN" animsurface="RGMWATER_R_WALK" />
+			<Surface name="WATER_RIFLE_AIM_MOSIN" animsurface="RGMWATER_R_AIM" />
+			<Surface name="WATER_RIFLE_HIP_MOSIN" animsurface="RGM_WATER_HIP_AIM" />
 		</LayerProp>
 		<LayerProp filter="HasARInHand" palette="guns_v2">
 			<Surface name="LBT_RGM_RIFLE_OPEN_AR" animsurface="RGMOPEN" />
