@@ -243,17 +243,18 @@
 		</AND>
 	</Filter>	
 	<Filter name="HasRifleInHand">
-		<AND>
+		<OR>
 			<WEAPON_TYPE>GUN_RIFLE</WEAPON_TYPE>
-		</AND>
+		</OR>
 	</Filter>
 	<Filter name="HasSemiAutoRifleInHand">
 		<OR>
 			<WEAPON_TYPE>GUN_RIFLE</WEAPON_TYPE>
 			<WEAPON_TYPE>GUN_AS_RIFLE</WEAPON_TYPE>
+			<WEAPON_TYPE>GUN_LMG</WEAPON_TYPE>
 		</OR>
 		<AND>
-			<HANDPOS op="in">17, 22, 27, 683, 753, 1193</HANDPOS>
+			<HANDPOS op="in">17, 22, 27, 683, 753, 1193, 2218, 2219</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasBlackSemiAutoRifleInHand">
