@@ -90,7 +90,7 @@
 	</Filter>
 	<Filter name="Longsleeves">
 		<AND>
-			<VESTPOS op="in">283, 295, 806, 818, 821, 830, 833, 840, 856, 857, 858, 859, 860, 865, 866, 867, 868, 869</VESTPOS>
+			<VESTPOS op="in">283, 295, 806, 818, 821, 830, 833, 840, 856, 857, 858, 859, 860, 865, 866, 867, 868, 869, 2275</VESTPOS>
 		</AND>
 	</Filter>
 	<Filter name="LongsleevesANDHasPistolOrMPistolInLeftHand">
@@ -258,7 +258,7 @@
 	</Filter>
 	<Filter name="HasBlackSemiAutoRifleInHand">
 		<AND>
-			<HANDPOS op="in">348, 896, 897, 1074</HANDPOS>
+			<HANDPOS op="in">348, 896, 897, 1074, 1078</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasMGInHand">
